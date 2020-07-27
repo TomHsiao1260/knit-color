@@ -1,0 +1,55 @@
+body {background-size:cover;}
+
+.center-screen {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#frame {
+  	width: 46vw;
+  	height: 46vw;
+  	display: flex;
+  	align-items: center;
+}
+
+.btn_control input{
+	font-size:3vw;
+    border: none;
+    border-radius: 10%;
+    height:9%;
+    width:5%;
+    cursor: pointer;
+    text-align: center;
+}
+
+#next_id{
+    position:absolute;
+    background-color: #00b33c;
+    color:#ffffcc;
+    left:90%;
+    top:85%;
+}
+
+#pre_id{
+    position:absolute;
+    background-color: #bfbfbf;
+    color:#262626;
+    left:84%;
+    top:85%;
+}
+
+#start_stop{
+    position:absolute;
+    font-size:2.5vw;
+    color:#ffffcc;
+    border: 1%;
+    left:84%;
+    top:73%;
+    height:8%;
+    width:11%;
+    cursor: pointer;
+    background-color: rgba(255,255,255,0.08);
+}
