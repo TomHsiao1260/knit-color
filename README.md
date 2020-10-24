@@ -1,6 +1,6 @@
 Color Game
 ======
-Color Game： https://tomhsiao1260.github.io/knit_color/
+Color Game： https://tomhsiao1260.github.io/knit-color/
 
 ![Alt text](/resource/img/screenshot.png)
 
